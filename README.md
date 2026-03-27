@@ -44,7 +44,7 @@ To ensure the detected face is **real and not a spoof**, the system applies:
 ## Project Structure
 
 ```
-Smart-Attendance-System/
+Attendance-System/
 │
 ├── AttendanceSystem.py
 ├── requirements.txt
