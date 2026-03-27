@@ -62,8 +62,8 @@ Attendance-System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Smart-Attendance-System.git
-cd Smart-Attendance-System
+git clone https://github.com/engasmaaibrahim/Attendance-System.git
+cd Attendance-System
 ```
 
 2. Create environment (optional but recommended):
